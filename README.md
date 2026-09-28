@@ -157,3 +157,14 @@ Follow this steps:
 
 ## Attention!
 - Shevery r32 gonna be 22.08.26
+
+
+---
+
+## 👤 Author
+
+**Sachin Mandawi** — *Software & Android Developer*
+- 🌐 **Official Website & Portfolio:** [https://sachinmandawi.me](https://sachinmandawi.me)
+- 💻 **GitHub:** [@sachinmandawi](https://github.com/sachinmandawi)
+- 📷 **Instagram:** [@sachinmandawi](https://www.instagram.com/sachinmandawi)
+- 📌 **Pinterest:** [in.pinterest.com/sachinmandawi](https://in.pinterest.com/sachinmandawi/)
